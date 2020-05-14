@@ -1,0 +1,7 @@
+UntrustCIDR_Block = "172.16.0.0/24"
+TrustCIDR_Block = "172.16.50.0/24"
+AppCIDR_Block = "172.16.100.0/24"
+MGMTCIDR_Block = "172.16.254.0/24"
+VPCName = "Demo_VPC"
+StackName = "Demo"
+VPCCIDR = "172.16.0.0/16"
